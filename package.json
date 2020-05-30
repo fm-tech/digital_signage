@@ -1,0 +1,15 @@
+{
+  "name": "digitalsign_display",
+  "version": "0.0.1",
+  "description": "Application that serves as a front end admin pannell to control a diginal signage application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "digital",
+    "signage"
+  ],
+  "author": "Francisco Miranda",
+  "license": "ISC"
+}
